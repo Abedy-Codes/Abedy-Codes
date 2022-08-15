@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abedy-Codes
+- 👋 Hi, I’m @Abednego Moronya
 - 👀 I’m interested in Website Development using Wordpress and Androip App Development usign Kotlin.
 - 🌱 I’m currently learning Android App Development using Kotlin as my programming language and Android Studio as my Development Tool.
 - 💞️ I’m looking to collaborate on any project related to Wordpress Website Development.
